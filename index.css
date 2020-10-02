@@ -5,6 +5,9 @@
 }
 
 :root[color-mode="light"] {
+  background-image: url("https://wallpaperaccess.com/full/208106.jpg");
+  background-size: cover;
+  background-attachment: fixed;
   --background: #f3f4f6;
   --background-primary: #ffffff;
   --text-primary: #000000;
